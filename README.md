@@ -1,2 +1,2 @@
 # cyclic_code
-Cyclic code over GF(2)
+Cyclic code over GF(2) - Verilog
